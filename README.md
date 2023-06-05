@@ -1,2 +1,2 @@
-# Movie---Database
-Movie Database from API
+# Movie Database
+Movie Database from API with React
